@@ -1,1 +1,0 @@
-tiny buildroot distro for the Pi2. Really stripped down, boots in about 5 seconds. Networking is using a static IP. On first boot it will format a data partition on the remainder of the sd card, takes about 10 minutes.
